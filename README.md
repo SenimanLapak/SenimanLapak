@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SenimanLapak
-- 👀 I’m interested in Bagility
-- 🌱 I’m currently learning create a theme
+- 👀 I’m interested in Newsup
+- 🌱 I’m currently learning create a child theme
 - 💞️ I’m looking to collaborate on Themeansar
 - 📫 How to reach me SenimanLapak
 
