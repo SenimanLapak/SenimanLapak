@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SenimanLapak
 - 👀 I’m interested in create a theme
-- I'm interested in the Newsup by Themeansar theme
 - 🌱 I’m currently learning create a child theme Seniman Lapak
 - This theme duplicates Newsup with some changes to the appearance of features and stands out for gradient blue and gradient red
 - 💞️ I’m looking to collaborate on Themeansar
