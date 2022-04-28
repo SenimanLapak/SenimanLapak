@@ -4,7 +4,7 @@
 - This theme duplicates Newsup with some changes to the appearance of features and stands out for gradient blue and gradient red
 - 💞️ I’m looking to collaborate on Themeansar
 - 📫 How to reach me SenimanLapak
-web: https://www.kamigrosir.com/
+web: https://kamigrosir.com/
 
 <!---
 SenimanLapak/SenimanLapak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
